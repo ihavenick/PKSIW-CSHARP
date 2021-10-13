@@ -1,6 +1,0 @@
-A:\Users\Prince\Documents\Unreal Projects\PksIw\Managed\Tests\UnrealEngine.Tests.dll
-A:\Users\Prince\Documents\Unreal Projects\PksIw\Managed\Tests\UnrealEngine.Tests.deps.json
-A:\Users\Prince\Documents\Unreal Projects\PksIw\Managed\Tests\UnrealEngine.Tests.pdb
-A:\Users\Prince\Documents\Unreal Projects\PksIw\Managed\Tests\UnrealEngine.Framework.dll
-A:\Users\Prince\Documents\Unreal Projects\PksIw\Managed\Tests\UnrealEngine.Framework.pdb
-A:\Users\Prince\Documents\Unreal Projects\PksIw\Managed\Tests\UnrealEngine.Framework.xml
