@@ -1,0 +1,44 @@
+A:\Users\Prince\Documents\Unreal Projects\PksIw\Script\Tests\bin\Debug\PKSIW.deps.json
+A:\Users\Prince\Documents\Unreal Projects\PksIw\Script\Tests\bin\Debug\PKSIW.dll
+A:\Users\Prince\Documents\Unreal Projects\PksIw\Script\Tests\bin\Debug\ref\PKSIW.dll
+A:\Users\Prince\Documents\Unreal Projects\PksIw\Script\Tests\bin\Debug\PKSIW.pdb
+A:\Users\Prince\Documents\Unreal Projects\PksIw\Script\Tests\bin\Debug\UnrealEngine.Framework.dll
+A:\Users\Prince\Documents\Unreal Projects\PksIw\Script\Tests\bin\Debug\UnrealEngine.Framework.pdb
+A:\Users\Prince\Documents\Unreal Projects\PksIw\Script\Tests\bin\Debug\UnrealEngine.Framework.xml
+A:\Users\Prince\Documents\Unreal Projects\PksIw\Script\Tests\obj\Debug\PKSIW.csprojAssemblyReference.cache
+A:\Users\Prince\Documents\Unreal Projects\PksIw\Script\Tests\obj\Debug\PKSIW.GeneratedMSBuildEditorConfig.editorconfig
+A:\Users\Prince\Documents\Unreal Projects\PksIw\Script\Tests\obj\Debug\PKSIW.AssemblyInfoInputs.cache
+A:\Users\Prince\Documents\Unreal Projects\PksIw\Script\Tests\obj\Debug\PKSIW.AssemblyInfo.cs
+A:\Users\Prince\Documents\Unreal Projects\PksIw\Script\Tests\obj\Debug\PKSIW.csproj.CoreCompileInputs.cache
+A:\Users\Prince\Documents\Unreal Projects\PksIw\Script\Tests\obj\Debug\PKSIW.csproj.CopyComplete
+A:\Users\Prince\Documents\Unreal Projects\PksIw\Script\Tests\obj\Debug\PKSIW.dll
+A:\Users\Prince\Documents\Unreal Projects\PksIw\Script\Tests\obj\Debug\ref\PKSIW.dll
+A:\Users\Prince\Documents\Unreal Projects\PksIw\Script\Tests\obj\Debug\PKSIW.pdb
+D:\UnrealProject\PksIw\Script\Tests\bin\Debug\PKSIW.deps.json
+D:\UnrealProject\PksIw\Script\Tests\bin\Debug\PKSIW.dll
+D:\UnrealProject\PksIw\Script\Tests\bin\Debug\ref\PKSIW.dll
+D:\UnrealProject\PksIw\Script\Tests\bin\Debug\PKSIW.pdb
+D:\UnrealProject\PksIw\Script\Tests\bin\Debug\UnrealEngine.Framework.dll
+D:\UnrealProject\PksIw\Script\Tests\obj\Debug\PKSIW.csprojAssemblyReference.cache
+D:\UnrealProject\PksIw\Script\Tests\obj\Debug\PKSIW.GeneratedMSBuildEditorConfig.editorconfig
+D:\UnrealProject\PksIw\Script\Tests\obj\Debug\PKSIW.AssemblyInfoInputs.cache
+D:\UnrealProject\PksIw\Script\Tests\obj\Debug\PKSIW.AssemblyInfo.cs
+D:\UnrealProject\PksIw\Script\Tests\obj\Debug\PKSIW.csproj.CoreCompileInputs.cache
+D:\UnrealProject\PksIw\Script\Tests\obj\Debug\PKSIW.csproj.CopyComplete
+D:\UnrealProject\PksIw\Script\Tests\obj\Debug\PKSIW.dll
+D:\UnrealProject\PksIw\Script\Tests\obj\Debug\ref\PKSIW.dll
+D:\UnrealProject\PksIw\Script\Tests\obj\Debug\PKSIW.pdb
+C:\UnrealProject\PksIw\Script\Tests\bin\Debug\PKSIW.deps.json
+C:\UnrealProject\PksIw\Script\Tests\bin\Debug\PKSIW.dll
+C:\UnrealProject\PksIw\Script\Tests\bin\Debug\ref\PKSIW.dll
+C:\UnrealProject\PksIw\Script\Tests\bin\Debug\PKSIW.pdb
+C:\UnrealProject\PksIw\Script\Tests\bin\Debug\UnrealEngine.Framework.dll
+C:\UnrealProject\PksIw\Script\Tests\obj\Debug\PKSIW.csprojAssemblyReference.cache
+C:\UnrealProject\PksIw\Script\Tests\obj\Debug\PKSIW.GeneratedMSBuildEditorConfig.editorconfig
+C:\UnrealProject\PksIw\Script\Tests\obj\Debug\PKSIW.AssemblyInfoInputs.cache
+C:\UnrealProject\PksIw\Script\Tests\obj\Debug\PKSIW.AssemblyInfo.cs
+C:\UnrealProject\PksIw\Script\Tests\obj\Debug\PKSIW.csproj.CoreCompileInputs.cache
+C:\UnrealProject\PksIw\Script\Tests\obj\Debug\PKSIW.csproj.CopyComplete
+C:\UnrealProject\PksIw\Script\Tests\obj\Debug\PKSIW.dll
+C:\UnrealProject\PksIw\Script\Tests\obj\Debug\ref\PKSIW.dll
+C:\UnrealProject\PksIw\Script\Tests\obj\Debug\PKSIW.pdb

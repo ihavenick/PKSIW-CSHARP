@@ -1,0 +1,4 @@
+C:\UnrealProject\PksIw\Managed\PKSIW\PKSIW.dll
+C:\UnrealProject\PksIw\Managed\PKSIW\PKSIW.deps.json
+C:\UnrealProject\PksIw\Managed\PKSIW\PKSIW.pdb
+C:\UnrealProject\PksIw\Managed\PKSIW\UnrealEngine.Framework.dll

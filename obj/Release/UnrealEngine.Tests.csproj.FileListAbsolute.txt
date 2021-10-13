@@ -1,0 +1,16 @@
+A:\Users\Prince\Desktop\UnrealCLR-master\Source\Managed\Tests\bin\Release\UnrealEngine.Tests.deps.json
+A:\Users\Prince\Desktop\UnrealCLR-master\Source\Managed\Tests\bin\Release\UnrealEngine.Tests.dll
+A:\Users\Prince\Desktop\UnrealCLR-master\Source\Managed\Tests\bin\Release\ref\UnrealEngine.Tests.dll
+A:\Users\Prince\Desktop\UnrealCLR-master\Source\Managed\Tests\bin\Release\UnrealEngine.Tests.pdb
+A:\Users\Prince\Desktop\UnrealCLR-master\Source\Managed\Tests\bin\Release\UnrealEngine.Framework.dll
+A:\Users\Prince\Desktop\UnrealCLR-master\Source\Managed\Tests\bin\Release\UnrealEngine.Framework.pdb
+A:\Users\Prince\Desktop\UnrealCLR-master\Source\Managed\Tests\bin\Release\UnrealEngine.Framework.xml
+A:\Users\Prince\Desktop\UnrealCLR-master\Source\Managed\Tests\obj\Release\UnrealEngine.Tests.csprojAssemblyReference.cache
+A:\Users\Prince\Desktop\UnrealCLR-master\Source\Managed\Tests\obj\Release\UnrealEngine.Tests.GeneratedMSBuildEditorConfig.editorconfig
+A:\Users\Prince\Desktop\UnrealCLR-master\Source\Managed\Tests\obj\Release\UnrealEngine.Tests.AssemblyInfoInputs.cache
+A:\Users\Prince\Desktop\UnrealCLR-master\Source\Managed\Tests\obj\Release\UnrealEngine.Tests.AssemblyInfo.cs
+A:\Users\Prince\Desktop\UnrealCLR-master\Source\Managed\Tests\obj\Release\UnrealEngine.Tests.csproj.CoreCompileInputs.cache
+A:\Users\Prince\Desktop\UnrealCLR-master\Source\Managed\Tests\obj\Release\UnrealEngine.Tests.csproj.CopyComplete
+A:\Users\Prince\Desktop\UnrealCLR-master\Source\Managed\Tests\obj\Release\UnrealEngine.Tests.dll
+A:\Users\Prince\Desktop\UnrealCLR-master\Source\Managed\Tests\obj\Release\ref\UnrealEngine.Tests.dll
+A:\Users\Prince\Desktop\UnrealCLR-master\Source\Managed\Tests\obj\Release\UnrealEngine.Tests.pdb
